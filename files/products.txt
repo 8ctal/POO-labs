@@ -1,0 +1,6 @@
+Arroz;NP;5000;20
+Frijol;NP;5000;50
+Atun;NP;5000;30
+Papa;P;1500;40
+Tomate;P;800;20
+Pollo;P;10000;5
